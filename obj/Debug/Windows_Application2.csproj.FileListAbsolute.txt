@@ -1,0 +1,10 @@
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\bin\Debug\Windows_Application2.exe.config
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\bin\Debug\Windows_Application2.exe
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\bin\Debug\Windows_Application2.pdb
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\obj\Debug\Windows_Application2.Properties.Resources.resources
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\obj\Debug\Windows_Application2.csproj.GenerateResource.Cache
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\obj\Debug\Windows_Application2.exe
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\obj\Debug\Windows_Application2.pdb
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\obj\Debug\Windows_Application2.csprojResolveAssemblyReference.cache
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\obj\Debug\Windows_Application2.Form1.resources
+E:\لغات البرمجة\c#\Windows_Application2\Windows_Application2\bin\Debug\UnityEngine.dll
